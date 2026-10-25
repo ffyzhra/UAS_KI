@@ -1,2 +1,6 @@
-*/db/data/*
 /db/data/*
+
+# Binaries / archives (download ngrok from ngrok.com instead)
+*.zip
+*.tar.gz
+ngrok
